@@ -1,4 +1,0 @@
-[submodule "kafka"]
-	path = kafka
-	url = https://github.com/jbvmio/kafka.git
-	branch = master
